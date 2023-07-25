@@ -5,35 +5,45 @@
       "name": "Nguyen Van A",
       "account": "nguyena",
       "password": "123456",
-      "avatar":""
+      "avatar":"",
+      "gmail":"",
+      "phone":""
     },
     {
       "id": 2,
       "name": "Nguyen Thi B",
       "account": "nguyenb",
       "password": "12345678",
-      "avatar":""
+      "avatar":"",
+      "gmail":"",
+      "phone":""
     },
     {
       "id": 3,
       "name": "Duong Van C",
       "account": "duongc",
       "password": "88888888",
-      "avatar":""
+      "avatar":"",
+      "gmail":"",
+      "phone":""
     },
     {
       "id": 4,
       "name": "Nguyen D",
       "account": "nguyend",
       "password": "Thuc190401@",
-      "avatar":""
+      "avatar":"",
+      "gmail":"",
+      "phone":""
     },
     {
       "id": 5,
       "name": "Hoang Thi E",
       "account": "hoange",
       "password": "thuc190401",
-      "avatar":""
+      "avatar":"",
+      "gmail":"",
+      "phone":""
     }
   ]
 }
