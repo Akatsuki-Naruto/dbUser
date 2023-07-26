@@ -6,7 +6,7 @@
       "userName": "nguyena",
       "password": "123456",
       "avatar":"",
-      "gmail":"nguyena@gmail.com",
+      "email":"nguyena@gmail.com",
       "phone":""
     },
     {
@@ -15,7 +15,7 @@
       "userName": "nguyenb",
       "password": "12345678",
       "avatar":"",
-      "gmail":"nguyenb@gmail.com",
+      "email":"nguyenb@gmail.com",
       "phone":""
     },
     {
@@ -24,7 +24,7 @@
       "userName": "duongc",
       "password": "88888888",
       "avatar":"",
-      "gmail":"duongc@gmail.com",
+      "email":"duongc@gmail.com",
       "phone":""
     },
     {
@@ -33,7 +33,7 @@
       "userName": "nguyend",
       "password": "Thuc190401@",
       "avatar":"",
-      "gmail":"nguyend@gmail.com",
+      "email":"nguyend@gmail.com",
       "phone":""
     },
     {
@@ -42,7 +42,7 @@
       "userName": "hoange",
       "password": "thuc190401",
       "avatar":"",
-      "gmail":"hoange@gmail.com",
+      "email":"hoange@gmail.com",
       "phone":""
     }
   ]
