@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Nguyen Van A",
-      "userName": "nguyena",
+      "username": "nguyena",
       "password": "123456",
       "avatar":"",
       "email":"nguyena@gmail.com",
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "name": "Nguyen Thi B",
-      "userName": "nguyenb",
+      "username": "nguyenb",
       "password": "12345678",
       "avatar":"",
       "email":"nguyenb@gmail.com",
@@ -21,7 +21,7 @@
     {
       "id": 3,
       "name": "Duong Van C",
-      "userName": "duongc",
+      "username": "duongc",
       "password": "88888888",
       "avatar":"",
       "email":"duongc@gmail.com",
@@ -30,7 +30,7 @@
     {
       "id": 4,
       "name": "Nguyen D",
-      "userName": "nguyend",
+      "username": "nguyend",
       "password": "Thuc190401@",
       "avatar":"",
       "email":"nguyend@gmail.com",
@@ -39,7 +39,7 @@
     {
       "id": 5,
       "name": "Hoang Thi E",
-      "userName": "hoange",
+      "username": "hoange",
       "password": "thuc190401",
       "avatar":"",
       "email":"hoange@gmail.com",
